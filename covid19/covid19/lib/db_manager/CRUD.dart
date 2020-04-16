@@ -4,7 +4,7 @@ class CRUDManager {
   final db = Firestore.instance;
 
   createData(String dbname, dynamic json) async {
-    // add users and add bluetooth addresses
+    // add users and add detect bluetooth addresses
     DocumentReference ref = await db.collection(dbname).add(json);
     return ref.documentID;
   }
