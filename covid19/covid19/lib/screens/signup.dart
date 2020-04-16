@@ -3,7 +3,7 @@ import '../db_manager/athentication.dart';
 
 class Signup extends StatelessWidget {
   final _phoneController = TextEditingController();
-  AuthenticationManager authenticationManager = AuthenticationManager();
+  final AuthenticationManager authenticationManager = AuthenticationManager();
   @override
   Widget build(BuildContext context) {
     return Scaffold(
