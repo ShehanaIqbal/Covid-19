@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Thu Apr 16 2020 22:48:52 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+* covid19/covid19/lib/db_manager/athentication.dart
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
